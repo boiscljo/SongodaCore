@@ -68,7 +68,7 @@
         <java.version>17</java.version>
         <java.release>17</java.release>
 
-        <nms.ver>1.19.1-R0.1-SNAPSHOT</nms.ver>
+        <nms.ver>1.19-R0.1-SNAPSHOT</nms.ver>
     </properties>
 
     <artifactId>SongodaCore-NMS-v1_19_R1</artifactId>
