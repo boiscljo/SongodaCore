@@ -27,7 +27,7 @@ jobs:
       # Build Spigot 1.18.2 (remapped)
       - uses: SpraxDev/Action-SpigotMC@v4
         with:
-          versions: 1.18.2
+          versions: 1.19
           remapped: true
 
       # Build project

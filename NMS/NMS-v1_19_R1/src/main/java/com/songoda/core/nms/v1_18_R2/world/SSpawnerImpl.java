@@ -1,4 +1,4 @@
-package com.songoda.core.nms.v1_18_R2.world;
+package com.songoda.core.nms.v1_19_R1.world;
 
 import com.songoda.core.compatibility.CompatibleMaterial;
 import com.songoda.core.compatibility.CompatibleParticleHandler;
@@ -14,7 +14,7 @@ import net.minecraft.world.entity.MobSpawnType;
 import net.minecraft.world.level.SpawnData;
 import org.bukkit.Location;
 import org.bukkit.block.BlockFace;
-import org.bukkit.craftbukkit.v1_18_R2.CraftWorld;
+import org.bukkit.craftbukkit.v1_19_R1.CraftWorld;
 import org.bukkit.entity.EntityType;
 import org.bukkit.entity.LivingEntity;
 import org.bukkit.event.entity.CreatureSpawnEvent;

@@ -1,9 +1,9 @@
-package com.songoda.core.nms.v1_18_R2.nbt;
+package com.songoda.core.nms.v1_19_R1.nbt;
 
 import com.songoda.core.nms.nbt.NBTItem;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.world.item.ItemStack;
-import org.bukkit.craftbukkit.v1_18_R2.inventory.CraftItemStack;
+import org.bukkit.craftbukkit.v1_19_R1.inventory.CraftItemStack;
 
 public class NBTItemImpl extends NBTCompoundImpl implements NBTItem {
     private final ItemStack nmsItem;

@@ -1,9 +1,9 @@
-package com.songoda.core.nms.v1_18_R2.anvil;
+package com.songoda.core.nms.v1_19_R1.anvil;
 
 import net.minecraft.world.Container;
 import net.minecraft.world.inventory.AnvilMenu;
 import org.bukkit.Location;
-import org.bukkit.craftbukkit.v1_18_R2.inventory.CraftInventoryAnvil;
+import org.bukkit.craftbukkit.v1_19_R1.inventory.CraftInventoryAnvil;
 import org.bukkit.inventory.InventoryHolder;
 
 public class AnvilInventoryCustom extends CraftInventoryAnvil {

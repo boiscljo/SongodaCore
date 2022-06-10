@@ -1,11 +1,11 @@
-package com.songoda.core.nms.v1_18_R2.nbt;
+package com.songoda.core.nms.v1_19_R1.nbt;
 
 import com.songoda.core.nms.nbt.NBTCore;
 import com.songoda.core.nms.nbt.NBTEntity;
 import com.songoda.core.nms.nbt.NBTItem;
 import net.minecraft.nbt.CompoundTag;
-import org.bukkit.craftbukkit.v1_18_R2.entity.CraftEntity;
-import org.bukkit.craftbukkit.v1_18_R2.inventory.CraftItemStack;
+import org.bukkit.craftbukkit.v1_19_R1.entity.CraftEntity;
+import org.bukkit.craftbukkit.v1_19_R1.inventory.CraftItemStack;
 import org.bukkit.entity.Entity;
 import org.bukkit.inventory.ItemStack;
 

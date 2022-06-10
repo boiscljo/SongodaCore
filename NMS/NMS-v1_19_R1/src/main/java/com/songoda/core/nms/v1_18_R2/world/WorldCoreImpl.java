@@ -1,7 +1,7 @@
-package com.songoda.core.nms.v1_18_R2.world;
+package com.songoda.core.nms.v1_19_R1.world;
 
 import com.songoda.core.nms.ReflectionUtils;
-import com.songoda.core.nms.v1_18_R2.world.spawner.BBaseSpawnerImpl;
+import com.songoda.core.nms.v1_19_R1.world.spawner.BBaseSpawnerImpl;
 import com.songoda.core.nms.world.BBaseSpawner;
 import com.songoda.core.nms.world.SItemStack;
 import com.songoda.core.nms.world.SSpawner;
@@ -19,7 +19,7 @@ import net.minecraft.world.level.material.FluidState;
 import org.bukkit.Location;
 import org.bukkit.World;
 import org.bukkit.block.CreatureSpawner;
-import org.bukkit.craftbukkit.v1_18_R2.CraftChunk;
+import org.bukkit.craftbukkit.v1_19_R1.CraftChunk;
 import org.bukkit.inventory.ItemStack;
 
 public class WorldCoreImpl implements WorldCore {

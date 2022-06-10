@@ -1,4 +1,4 @@
-package com.songoda.core.nms.v1_18_R2.anvil;
+package com.songoda.core.nms.v1_19_R1.anvil;
 
 import com.songoda.core.nms.anvil.CustomAnvil;
 import com.songoda.core.nms.anvil.methods.AnvilTextChange;
@@ -14,7 +14,7 @@ import net.minecraft.world.inventory.ContainerLevelAccess;
 import net.minecraft.world.inventory.ItemCombinerMenu;
 import net.minecraft.world.inventory.MenuType;
 import org.bukkit.Location;
-import org.bukkit.craftbukkit.v1_18_R2.inventory.CraftInventoryView;
+import org.bukkit.craftbukkit.v1_19_R1.inventory.CraftInventoryView;
 import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.InventoryHolder;
 import org.bukkit.inventory.ItemStack;

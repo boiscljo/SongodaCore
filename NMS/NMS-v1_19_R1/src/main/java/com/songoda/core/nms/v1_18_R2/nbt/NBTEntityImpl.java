@@ -1,4 +1,4 @@
-package com.songoda.core.nms.v1_18_R2.nbt;
+package com.songoda.core.nms.v1_19_R1.nbt;
 
 import com.songoda.core.nms.nbt.NBTEntity;
 import net.minecraft.core.BlockPos;
@@ -8,7 +8,7 @@ import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.MobSpawnType;
 import org.bukkit.Location;
-import org.bukkit.craftbukkit.v1_18_R2.CraftWorld;
+import org.bukkit.craftbukkit.v1_19_R1.CraftWorld;
 
 import java.util.Optional;
 

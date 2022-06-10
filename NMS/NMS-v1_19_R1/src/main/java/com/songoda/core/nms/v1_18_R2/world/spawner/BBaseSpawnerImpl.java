@@ -1,4 +1,4 @@
-package com.songoda.core.nms.v1_18_R2.world.spawner;
+package com.songoda.core.nms.v1_19_R1.world.spawner;
 
 import com.songoda.core.nms.world.BBaseSpawner;
 import net.minecraft.core.BlockPos;
@@ -17,9 +17,9 @@ import net.minecraft.world.level.LightLayer;
 import net.minecraft.world.level.SpawnData;
 import net.minecraft.world.phys.AABB;
 import org.bukkit.block.CreatureSpawner;
-import org.bukkit.craftbukkit.v1_18_R2.CraftWorld;
-import org.bukkit.craftbukkit.v1_18_R2.block.CraftCreatureSpawner;
-import org.bukkit.craftbukkit.v1_18_R2.event.CraftEventFactory;
+import org.bukkit.craftbukkit.v1_19_R1.CraftWorld;
+import org.bukkit.craftbukkit.v1_19_R1.block.CraftCreatureSpawner;
+import org.bukkit.craftbukkit.v1_19_R1.event.CraftEventFactory;
 import org.bukkit.event.entity.CreatureSpawnEvent;
 
 import java.util.Optional;

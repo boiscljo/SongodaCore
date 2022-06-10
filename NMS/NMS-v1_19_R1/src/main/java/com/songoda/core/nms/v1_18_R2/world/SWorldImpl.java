@@ -1,11 +1,11 @@
-package com.songoda.core.nms.v1_18_R2.world;
+package com.songoda.core.nms.v1_19_R1.world;
 
 import com.songoda.core.nms.world.SWorld;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.level.entity.LevelEntityGetter;
 import org.bukkit.World;
-import org.bukkit.craftbukkit.v1_18_R2.CraftWorld;
+import org.bukkit.craftbukkit.v1_19_R1.CraftWorld;
 import org.bukkit.entity.LivingEntity;
 
 import java.util.ArrayList;
