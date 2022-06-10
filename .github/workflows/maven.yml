@@ -41,6 +41,7 @@ jobs:
           name: SongodaCore-artifacts
           path: ./Core/target/SongodaCore-*.jar
 
+
       ##
       # Discord Webhook
       # TODO: Extract into external Action for better reusability (and readability)
